@@ -4,7 +4,7 @@
 
 * The site nothing fancy sry about that just something made in 2min, I was running out of time. I know how to make webhook now XD ;)
 
-
+* Very nice!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
