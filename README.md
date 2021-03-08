@@ -4,7 +4,7 @@
 
 * The site nothing fancy sry about that just something made in 2min, I was running out of time. Atleast learn how to create a webhook. 
 
-
+* Very nice!
 
 
 ## Available Scripts
