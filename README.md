@@ -1,12 +1,11 @@
-# Made a webhook
+# Webhook
 
-* When you push new code to github the webhook will trigger a new build in Netlifly, so thats automatic you dont have to build your self.
+* When you push new code to github the webhook will trigger a new build in Netlifly, so thats automatic you dont have to build yourself everytime.
 
-* The site nothing fancy sry about that just something made in 2min, I was running out of time. I know how to make webhook now XD ;)
+* The site nothing fancy sry about that just something made in 2min, I was running out of time. Atleast learn how to create a webhook. 
 
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
