@@ -1,4 +1,4 @@
-import webhook from './images.png';
+import webhook1 from './images.png';
 import './App.css';
 
 function App() {
@@ -8,8 +8,7 @@ function App() {
       <h2>
           Webhoook testing 
         </h2>
-        <img src={webhook}  />
-        <img src={webhook}  />
+        <img src={webhook1}  />
       <p>push to github and it will tell you</p>
    
       </header>
