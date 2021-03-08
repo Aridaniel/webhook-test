@@ -8,7 +8,7 @@ function App() {
       <h2>
           Webhoook testing 
         </h2>
-        <img src={webhook1}  />
+        <img src={webhook1} alt='hookimage' />
       <p>push to github and it will tell you</p>
    
       </header>
