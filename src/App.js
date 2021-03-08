@@ -9,7 +9,7 @@ function App() {
           Webhoook testing 
         </h2>
         <img src={webhook1} alt='hookimage' />
-      <p>So everytime you push new code to github and Netlifly will rebuild</p>
+      <p>So everytime you push new code to github, Netlifly will rebuild with the new webhook </p>
    
       </header>
     </div>
